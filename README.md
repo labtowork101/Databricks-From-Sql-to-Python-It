@@ -9,7 +9,7 @@ Databricks Free Edition.
 1. In Databricks si apre **Workspace → Users →** *proprio indirizzo email*.
 2. Si sceglie **Create → Git folder**.
 3. In **Git repository URL** si incolla l'indirizzo di questo repository
-   (`https://github.com/wcafass/Python_From_Databricks.git`); il provider è **GitHub**.
+   (`https://github.com/labtowork101/Databricks-From-Sql-to-Python-It.git`); il provider è **GitHub**.
 4. In **Git folder name** si scrive `Libro_Python` al posto del nome proposto e si conferma
    con **Create Git folder**.
 
