@@ -1145,10 +1145,10 @@ display(critical_df)
 # MAGIC Risultato atteso: 
 # MAGIC ```
 # MAGIC destination  country  check_in_month  booking_count  cancelled_count  cancellation_rate  cancellation_status
-# MAGIC Amalfi       Italy    6               13              5                38.5               non valutabile
-# MAGIC Amalfi       Italy    7               9               1                11.1               non valutabile
-# MAGIC Amalfi       Italy    8               20              5                25                 ok
-# MAGIC Amalfi       Italy    9               9               1                11.1               non valutabile
+# MAGIC Amalfi       Italy    6               13             5                38.5               non valutabile
+# MAGIC Amalfi       Italy    7               9              1                11.1               non valutabile
+# MAGIC Amalfi       Italy    8               20             5                25                 ok
+# MAGIC Amalfi       Italy    9               9              1                11.1               non valutabile
 # MAGIC ```
 
 # COMMAND ----------

@@ -390,7 +390,7 @@ print(check_in)
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Un testo che non corrisponde al formato di `strptime()`: la cella deve fallire con un `ValueError`. Il traceback ha due blocchi: il secondo (`File /usr/lib/python3.12/_strptime.py`) è codice del modulo, non nostro.
+# MAGIC Un testo che non corrisponde al formato di `strptime()`: la cella deve fallire con un `ValueError`. Il traceback ha tre blocchi: il secondo e il terzo (`File /usr/lib/python3.12/_strptime.py`) sono codice del modulo, non nostro.
 
 # COMMAND ----------
 
