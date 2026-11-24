@@ -151,7 +151,7 @@ print(f"{average_price:.2f}")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Il tasso di cancellazione si calcola da sinistra a destra: prima la divisione, poi la moltiplicazione. Le parentesi nella seconda riga cambiano il significato. Risultati attesi: `50.0`, `50.0`, `0.005`.
+# MAGIC Il tasso di cancellazione si calcola da sinistra a destra: prima la divisione, poi la moltiplicazione. Le parentesi nella terza riga cambiano il significato. Risultati attesi: `50.0`, `50.0`, `0.005`.
 
 # COMMAND ----------
 
