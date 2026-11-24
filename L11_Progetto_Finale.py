@@ -579,11 +579,11 @@ display(
 # MAGIC %md
 # MAGIC Risultato atteso – output (griglia):
 # MAGIC ```
-# MAGIC destination  country  check_in_month  booking_count  cancelled_count  revenue   cancellation_rate  cancellation_status
-# MAGIC Amalfi       Italy    6               13             6                7356      46.2               non valutabile
-# MAGIC Amalfi       Italy    7               9              3                6918.84   33.3               non valutabile
-# MAGIC Amalfi       Italy    8               20             10               11138.2   50                 critico
-# MAGIC Amalfi       Italy    9               9              2                4090.92   22.2               non valutabile
+# MAGIC destination  country  check_in_month  booking_count  cancelled_count  revenue  cancellation_rate  cancellation_status
+# MAGIC Amalfi       Italy    6               13             6                7356     46.2               non valutabile
+# MAGIC Amalfi       Italy    7               9              3                6918.84  33.3               non valutabile
+# MAGIC Amalfi       Italy    8               20             10               11138.2  50                 critico
+# MAGIC Amalfi       Italy    9               9              2                4090.92  22.2               non valutabile
 # MAGIC ```
 
 # COMMAND ----------

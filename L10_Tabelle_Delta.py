@@ -991,8 +991,7 @@ print(spark.table(DAILY_BOOKINGS_TABLE).count())
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## Riepilogo
-# MAGIC degli errori che non producono messaggi
+# MAGIC ## Errori che non producono messaggi
 # MAGIC
 # MAGIC Tre errori di questo capitolo non si possono mostrare con una cella, perché non danno messaggi, e conviene conoscerli prima di incontrarli.
 # MAGIC
